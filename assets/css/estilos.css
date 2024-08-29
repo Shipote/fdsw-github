@@ -40,10 +40,10 @@ body {
 
 /*  */
 
-/* .Mis-trabajo bg-dark {
-  opacity: ;
-} */
-
 #Mis-trabajos {
+  background: linear-gradient(#0005, #000a);
+}
+
+#Contacto {
   background: linear-gradient(#0005, #000a);
 }
