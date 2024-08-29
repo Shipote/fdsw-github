@@ -9,6 +9,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
+  background-attachment: fixed;
 }
 
 /* Mis trabajos */
@@ -35,4 +36,14 @@ body {
   .navbar-brand {
     width: 100px;
   }
+}
+
+/*  */
+
+/* .Mis-trabajo bg-dark {
+  opacity: ;
+} */
+
+#Mis-trabajos {
+  background: linear-gradient(#0005, #000a);
 }
