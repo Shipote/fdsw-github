@@ -5,11 +5,12 @@ body {
 /* Hero Section */
 
 #Fondo-Section {
-  background-image: url("../img/bg-papas3.jpg");
+  background-image: url("../img/bg-papas.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
+  background-color: black;
 }
 
 /* Mis trabajos */
